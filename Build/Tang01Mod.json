@@ -1,7 +1,7 @@
 {
 "companyName": "KlopperStudio",
 "productName": "SubmarineTang",
-"productVersion": "1",
+"productVersion": "1.2",
 "dataUrl": "Tang01Mod.data.unityweb",
 "wasmCodeUrl": "Tang01Mod.wasm.code.unityweb",
 "wasmFrameworkUrl": "Tang01Mod.wasm.framework.unityweb",
